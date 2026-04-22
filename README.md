@@ -1,6 +1,6 @@
 # 🎬 Netlura - Clone da Netflix
 
-Projeto front-end inspirado na interface da Netflix, desenvolvido com **HTML, CSS e JavaScript puro**, com foco em organização de código, componentização e manipulação dinâmica do DOM.
+Projeto front-end inspirado na interface da Netflix, desenvolvido com **HTML, CSS e JavaScript**, com foco em organização de código, componentização e manipulação dinâmica do DOM.
 
 🔗 **Acesse o projeto online:**  
 👉 https://felipevascon.github.io/CloneNetflix/
